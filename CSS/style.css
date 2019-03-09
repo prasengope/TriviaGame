@@ -1,0 +1,46 @@
+body{
+    background: steelblue;
+}
+/* #content{
+    text-align: center;
+    width: 80%;
+    background: greenyellow;
+    margin: 20px auto;
+} */
+.jumbotron {
+    text-align: center;
+    box-sizing: border-box;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+h1{
+    font-size: 48px;
+}
+
+p{
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.answer:hover {
+    background: pink;
+  }
+
+  #questions{
+    margin-top: 100px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+  .answer{
+      height: 50px;
+      width: 600px;
+      text-align: center;
+      border-radius: 4px;
+      background: red;
+      padding-top: 12px;
+  }
+  
+  
