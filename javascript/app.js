@@ -38,7 +38,7 @@ var wrongAnswers = 0;
 var questionArray = [
 	'How many states are there in the USA?',
 	'How many original colonies were there?',
-	'What is the capital of state of Washington?',
+	'What is the capital of the state of Washington?',
 	'What is the name of the national anthem?',
 	'When did the US declare its independence from the Great Britain?',
 	'Who lived in America before the Europeans arrived?',
